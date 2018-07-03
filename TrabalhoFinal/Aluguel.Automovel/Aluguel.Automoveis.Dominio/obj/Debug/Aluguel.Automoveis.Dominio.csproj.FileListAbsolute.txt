@@ -1,0 +1,4 @@
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Dominio\bin\Debug\Aluguel.Automoveis.Dominio.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Dominio\bin\Debug\Aluguel.Automoveis.Dominio.pdb
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Dominio\obj\Debug\Aluguel.Automoveis.Dominio.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Dominio\obj\Debug\Aluguel.Automoveis.Dominio.pdb

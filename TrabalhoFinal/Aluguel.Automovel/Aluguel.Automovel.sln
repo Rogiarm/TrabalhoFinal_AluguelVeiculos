@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Camada de Apresentação", "1. Camada de Apresentação", "{01F75DB3-F7A6-490A-A2F3-DE6041022D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Camada de Aplicação", "2. Camada de Aplicação", "{B2C82D11-BBB8-4670-BF51-0414719C8F9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Camada de Domínio", "3. Camada de Domínio", "{BEE9D859-E06C-43CE-BB5E-047A387844F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Camada de Infraestrutura", "4. Camada de Infraestrutura", "{BE0E3E9C-BAB9-46A7-9B73-C646A51D59B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{668D52EF-054B-40FC-A7FA-2F053CFA9DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluguel.Automoveis.Aplicacao", "Aluguel.Automoveis.Aplicacao\Aluguel.Automoveis.Aplicacao.csproj", "{5D95B2D8-9141-46F5-B3D9-2467F184CDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluguel.Automoveis.Dominio", "Aluguel.Automoveis.Dominio\Aluguel.Automoveis.Dominio.csproj", "{A43E47B2-E546-4553-AAED-CCE86AE94256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluguel.Automovel.Infra.Dados", "Aluguel.Automovel.Infra.Dados\Aluguel.Automovel.Infra.Dados.csproj", "{A5ACD193-A97E-4920-AD63-506B181F71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluguel.Automovel.Testes", "Aluguel.Automovel.Testes\Aluguel.Automovel.Testes.csproj", "{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluguel.Automovel.Web", "Aluguel.Automovel.Web\Aluguel.Automovel.Web.csproj", "{77F713A0-FB18-4212-9176-302D11FC3DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D95B2D8-9141-46F5-B3D9-2467F184CDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D95B2D8-9141-46F5-B3D9-2467F184CDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D95B2D8-9141-46F5-B3D9-2467F184CDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D95B2D8-9141-46F5-B3D9-2467F184CDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43E47B2-E546-4553-AAED-CCE86AE94256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43E47B2-E546-4553-AAED-CCE86AE94256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43E47B2-E546-4553-AAED-CCE86AE94256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43E47B2-E546-4553-AAED-CCE86AE94256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5ACD193-A97E-4920-AD63-506B181F71E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5ACD193-A97E-4920-AD63-506B181F71E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5ACD193-A97E-4920-AD63-506B181F71E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5ACD193-A97E-4920-AD63-506B181F71E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F713A0-FB18-4212-9176-302D11FC3DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F713A0-FB18-4212-9176-302D11FC3DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F713A0-FB18-4212-9176-302D11FC3DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F713A0-FB18-4212-9176-302D11FC3DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D95B2D8-9141-46F5-B3D9-2467F184CDB0} = {B2C82D11-BBB8-4670-BF51-0414719C8F9E}
+		{A43E47B2-E546-4553-AAED-CCE86AE94256} = {BEE9D859-E06C-43CE-BB5E-047A387844F5}
+		{A5ACD193-A97E-4920-AD63-506B181F71E8} = {BE0E3E9C-BAB9-46A7-9B73-C646A51D59B5}
+		{6A4B3205-A182-46E3-B5B6-B171A2EAC6C1} = {668D52EF-054B-40FC-A7FA-2F053CFA9DF4}
+		{77F713A0-FB18-4212-9176-302D11FC3DF9} = {01F75DB3-F7A6-490A-A2F3-DE6041022D89}
+	EndGlobalSection
+EndGlobal

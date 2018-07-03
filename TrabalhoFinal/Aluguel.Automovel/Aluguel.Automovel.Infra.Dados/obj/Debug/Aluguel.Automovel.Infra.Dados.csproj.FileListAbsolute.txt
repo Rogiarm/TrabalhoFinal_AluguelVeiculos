@@ -1,0 +1,12 @@
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\Aluguel.Automovel.Infra.Dados.dll.config
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\Aluguel.Automovel.Infra.Dados.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\Aluguel.Automovel.Infra.Dados.pdb
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\Aluguel.Automoveis.Dominio.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\Aluguel.Automoveis.Dominio.pdb
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\obj\Debug\Aluguel.Automovel.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\obj\Debug\Aluguel.Automovel.Infra.Dados.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automovel.Infra.Dados\obj\Debug\Aluguel.Automovel.Infra.Dados.pdb

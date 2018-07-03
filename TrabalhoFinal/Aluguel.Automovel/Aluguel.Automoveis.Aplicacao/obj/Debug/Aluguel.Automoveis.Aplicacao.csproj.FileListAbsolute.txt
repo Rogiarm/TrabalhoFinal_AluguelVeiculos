@@ -1,0 +1,4 @@
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Aplicacao\bin\Debug\Aluguel.Automoveis.Aplicacao.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Aplicacao\bin\Debug\Aluguel.Automoveis.Aplicacao.pdb
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Aplicacao\obj\Debug\Aluguel.Automoveis.Aplicacao.dll
+C:\Users\Roger\OneDrive\UNIPLAC\Desenvolvimento de Sistemas - Segunda\Trabalho Final\Aluguel.Automovel\Aluguel.Automoveis.Aplicacao\obj\Debug\Aluguel.Automoveis.Aplicacao.pdb
